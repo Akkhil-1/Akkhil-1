@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Akkhil-1
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Mern Stack
+- 🌱 Mern Stack Developer
 - 📫 https://www.linkedin.com/in/akhil-acharya-8a4a67258/
 - 😄 He/Him
 
