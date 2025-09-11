@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhil Acharya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Satck Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkhil-1&label=Profile%20views&color=0e75b6&style=flat" alt="akkhil-1" /> </p>
-
-- 🔭 I’m currently working on [Workwave](https://work-wave-five.vercel.app/)
-
-- 🌱 I’m currently learning **MERN NEXT.JS**
-
-- 💬 Ask me about **React JS JAVA MERN**
-
-- 📫 How to reach me **akhilacharya343@gmail.com**
-
-- ⚡ Fun fact **Gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
